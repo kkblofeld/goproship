@@ -1,3 +1,3 @@
 goproship
-Remote Control for a airship
+Remote Control for an airship
 =========
